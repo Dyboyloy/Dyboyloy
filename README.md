@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Longdy, a front-end developer 👨‍💻</div>  
+### <div align="center">I'm Longdy, a front-end developer 👨‍💻 from Cambodia</div>  
   
 
 - 🔭 I’m currently working on [PopIn](https://github.com/MonkyMars/PopIn)  
