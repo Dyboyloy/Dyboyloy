@@ -6,9 +6,6 @@
 ### <div align="center">I'm Longdy, a front-end developer 👨‍💻 from Cambodia</div>  
   
 
-- 🔭 I’m currently working on [PopIn](https://github.com/MonkyMars/PopIn)  
-  
-
 - 🌱 I’m currently learning TypeScript  
   
 
